@@ -1,0 +1,6 @@
+virt/
+coverage/
+coco.names
+image.jpeg
+*.cfg
+*.weights
